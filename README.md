@@ -23,3 +23,10 @@ ShopKart Sales Dataset (250+ rows)
 
 📌 Key Skills Demonstrated
 Data Accuracy, Record Management, Process Documentation, Deadline Management
+
+📸 Screenshots
+<img width="1346" height="612" alt="Screenshot 2026-08-17 165818" src="https://github.com/user-attachments/assets/d6058dce-ce6b-41c5-96ed-6fc6bc6a8995" />
+
+<img width="1362" height="639" alt="Screenshot 2026-08-17 165808" src="https://github.com/user-attachments/assets/24ce5768-b0a0-4dd7-8e37-8f28daad555d" />
+
+<img width="1352" height="631" alt="Screenshot 2026-08-17 154148" src="https://github.com/user-attachments/assets/306270a5-e5ee-4a82-9a44-98ab5831a8ea" />
