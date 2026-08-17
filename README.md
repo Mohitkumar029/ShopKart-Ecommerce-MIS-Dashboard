@@ -8,14 +8,13 @@ This project simulates a real-world MIS reporting task for an e-commerce busines
 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables & Pivot Charts
-- VLOOKUP, XLOOKUP, INDEX-MATCH, FILTER
 - Report Connections (Slicers)
 
 ✨ Features
 - Fully automated MIS dashboard with pivot tables and KPI cards (Total Revenue, Orders, Avg Rating)
 - Interactive slicers connected via Report Connections for dynamic filtering
 - VLOOKUP, XLOOKUP, INDEX-MATCH, and FILTER functions used to automate data retrieval and reduce manual lookup time
-- Category-wise, city-wise, and quarter-wise breakdowns using 8 pivot tables and 7 charts
+- Category-wise, city-wise, and quarter-wise breakdowns using pivot tables and charts
 - Enables instant, management-level reporting for business decisions
 
 📁 Dataset
